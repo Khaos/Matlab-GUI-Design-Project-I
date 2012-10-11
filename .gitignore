@@ -1,0 +1,17 @@
+Tmp
+Recycle
+*.dat
+*.asv
+*.zip
+*.m~
+.DS_Store
+Marking/*.mat
+Marking/*.xls
+Marking/*.csv
+Docs/*.*
+# !Docs/*.tex
+# !Docs/Fig/*.*
+test
+
+*.doc*
+*.tm*
