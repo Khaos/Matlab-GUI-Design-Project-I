@@ -1,4 +1,4 @@
-I create this branch with the following steps
+I create this branch with the following steps (see [How to Create a New and Empty Branch in Git](http://www.bitflop.com/document/116))
 
 1. Create a bland branch named as *demo*
 
@@ -20,4 +20,10 @@ I create this branch with the following steps
 		$ git commit -m "init commit"
 
 
-The original *master* was deleted from **GitHub**
+The original *master* was deleted from **GitHub** with the following steps
+
+1. Log into **GitHub** and find your repository
+
+2. Click on the **Admin** button and set the default branch to *demo*
+
+Now you are free to delete the *master* branch. See [Deleting your master branch — pydagogue 0.2 documentation](http://matthew-brett.github.com/pydagogue/gh_delete_master.html)
